@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project path="hardware/qcom-caf/wlan" />
+  <remove-project path="vendor/gms" />
+  <remove-project path="prebuilts/kernel-build-tools"/>
+  
+  <project path="prebuilts/kernel-build-tools" name="j7b3y/kernel-build-tools" remote="github" revision="add-yaml" />
+  <project path="hardware/qcom-caf/wlan" name="LineageOS/android_hardware_qcom_wlan" remote="github" revision="lineage-21.0-caf" />
+</manifest>

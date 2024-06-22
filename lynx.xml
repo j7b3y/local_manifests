@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="device/google/lynx" name="j7b3y/android_device_google_lynx" remote="github" revision="14-QPR2" />
-  <project path="device/google/gs201" name="j7b3y/android_device_google_gs201" remote="github" revision="14-QPR2" />
-  <project path="device/google/gs101" name="ProjectBlaze-Devices/device_google_gs101" remote="github" revision="14" />
-  <project path="device/google/lynx-kernel" name="device/google/lynx-kernel" groups="device,lynx" clone-depth="1" />
-  <project path="packages/apps/PixelParts" name="Evolution-X-Devices/packages_apps_PixelParts" remote="github" revision="udc"  />
-  <project path="vendor/google/lynx" name="j7b3y/vendor_google_lynx" remote="github" revision="14-QPR2" />
-</manifest>

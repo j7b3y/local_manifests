@@ -13,8 +13,6 @@
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="statix" />
 
-    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="statix" />
-
     <!-- Proprietary vendor -->
     <!--project path="vendor/xiaomi/yunluo" name="android_vendor_xiaomi_yunluo"
         remote="statix" /-->

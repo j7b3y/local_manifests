@@ -10,7 +10,6 @@
         name="android_device_xiaomi_yunluo-kernel"
         remote="statix" />
 
-    <remove-project name="android_device_mediatek_sepolicy_vndr" />
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="statix" />
 

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/google/lynx" name="j7b3y/android_device_google_lynx" remote="github" revision="14-QPR3" />
-  <project path="device/google/gs201" name="j7b3y/android_device_google_gs201" remote="github" revision="14-QPR3" />
+  <project path="device/google/lynx" name="android_device_google_lynx" remote="j7b3y" revision="14-QPR3" />
+  <project path="device/google/gs201" name="android_device_google_gs201" remote="j7b3y" revision="14-QPR3" />
   <project path="device/google/gs101" name="ProjectBlaze-Devices/device_google_gs101" remote="github" revision="14" />
   <project path="device/google/lynx-kernel" name="device/google/lynx-kernel" groups="device,lynx" clone-depth="1" />
   <project path="packages/apps/PixelParts" name="Evolution-X-Devices/packages_apps_PixelParts" remote="github" revision="udc"  />
-  <project path="vendor/google/lynx" name="j7b3y/proprietary_vendor_google_lynx" remote="github" revision="14-QPR3" />
+  <project path="vendor/google/lynx" name="proprietary_vendor_google_lynx" remote="j7b3y" revision="14-QPR3" />
   <project path="hardware/google/graphics/gs201" name="platform/hardware/google/graphics/gs201" groups="cloudripper" />
+  <remove-project path="hardware/qcom-caf/wlan">
+  <project path="hardware/qcom-caf/wlan" name="LineageOS/android_hardware_qcom_wlan" remote="github" revision="lineage-21.0-caf" />
 </manifest>

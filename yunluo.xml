@@ -10,7 +10,7 @@
         remote="j7b3y" revision="14-QPR3" />
 
     <!-- Proprietary vendor -->
-    <project path="vendor/xiaomi/yunluo" name="android_vendor_xiaomi_yunluo"
+    <project path="vendor/xiaomi/yunluo" name="proprietary_vendor_google_lynx"
         remote="j7b3y" revision="14-QPR3" />
 
 </manifest>

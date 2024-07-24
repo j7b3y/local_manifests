@@ -9,6 +9,10 @@
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="j7b3y" revision="14-QPR3" />
 
+    <remove-project path="hardware/mediatek" />
+    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="j7b3y" revision="14-QPR3" />
+
+
     <!-- Proprietary vendor -->
     <project path="vendor/xiaomi/yunluo" name="proprietary_vendor_xiaomi_yunluo"
         remote="j7b3y" revision="14-QPR3" />

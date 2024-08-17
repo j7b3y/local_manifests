@@ -4,7 +4,7 @@
         remote="j7b3y" revision="14-QPR3" />
     <project path="device/xiaomi/yunluo-kernel"
         name="android_device_xiaomi_yunluo-kernel"
-        remote="j7b3y" revision="14-QPR3" />
+        remote="j7b3y" revision="lineage-21" />
 
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="j7b3y" revision="14-QPR3" />

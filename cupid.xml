@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="android_device_xiaomi_cupid" path="device/xiaomi/cupid" remote="j7b3y" revision="14-QPR2" />
-  <project name="android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="j7b3y" revision="14-QPR2" />
+  <project name="android_device_xiaomi_cupid" path="device/xiaomi/cupid" remote="j7b3y" revision="14-QPR3" />
+  <project name="android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="j7b3y" revision="14-QPR3" />
 
   <!-- Xiaomi common hardware -->
   <remove-project path="hardware/xiaomi" />
-  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="j7b3y" revision="14-QPR2" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="j7b3y" revision="14-QPR3" />
 
   <!-- Kernel -->
   <project name="cupid-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-21" />

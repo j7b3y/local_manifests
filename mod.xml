@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project path="frameworks/base" />
+  <remove-project path="packages/apps/BlazeHouse" />
+  <project path="frameworks/base" name="j7b3y/frameworks_base" remote="github" revision="14" />
+  <project path="packages/apps/BlazeHouse" name="j7b3y/packages_apps_BlazeHouse" remote="github" revision="14" />
+</manifest>

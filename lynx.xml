@@ -3,7 +3,7 @@
   <project path="device/google/lynx" name="android_device_google_lynx" remote="j7b3y" revision="14-QPR3" />
   <project path="device/google/gs201" name="android_device_google_gs201" remote="j7b3y" revision="14-QPR3" />
   <project path="device/google/gs101" name="ProjectBlaze-Devices/device_google_gs101" remote="github" revision="14" />
-  <project path="kernel/google/gs201/private/gs-google" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
+  <project path="kernel/google/gs201/private/gs-google" name="kernel/gs" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
   <project path="packages/apps/PixelParts" name="Evolution-X-Devices/packages_apps_PixelParts" remote="github" revision="udc"  />
   <project path="vendor/google/lynx" name="proprietary_vendor_google_lynx" remote="j7b3y" revision="14-QPR3" />
   <project path="hardware/google/graphics/gs201" name="platform/hardware/google/graphics/gs201" groups="cloudripper" />

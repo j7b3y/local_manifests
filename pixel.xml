@@ -29,7 +29,7 @@
   <project path="kernel/google/gs201/private/google-modules/touch/novatek" name="kernel/google-modules/touch/novatek_touch" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
   <project path="kernel/google/gs201/private/google-modules/touch/sec" name="kernel/google-modules/touch/sec_touch" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
   <project path="kernel/google/gs201/private/google-modules/touch/synaptics" name="kernel/google-modules/touch/synaptics_touch" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
-  <project path="kernel/google/gs201/private/google-modules/uwb" name="kernel/google-modules/uwb" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
+  <project path="kernel/google/gs201/private/google-modules/uwb" name="kernel/google-modules/uwb" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.81" />
   <project path="kernel/google/gs201/private/google-modules/video/gchips" name="kernel/google-modules/video/gchips" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
   <project path="kernel/google/gs201/private/google-modules/wlan/bcmdhd4389" name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />
   <project path="kernel/google/gs201/private/google-modules/wlan/dhd43752p" name="kernel/google-modules/wlan/syna/dhd43752p" groups="pixel-extra" remote="aosp" revision="refs/tags/android-14.0.0_r0.117" />

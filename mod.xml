@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project path="frameworks/base" />
   <remove-project path="packages/apps/BlazeHouse" />
-  <project path="frameworks/base" name="frameworks_base_blaze" remote="j7b3y" revision="14" />
   <project path="packages/apps/BlazeHouse" name="packages_apps_BlazeHouse" remote="j7b3y" revision="14" />
 </manifest>

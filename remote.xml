@@ -1,0 +1,4 @@
+<manifest>
+    <!-- Remotes -->
+    <remote name="j7b3y" fetch="https://lfs.j7b3y.com/android" />
+</manifest>

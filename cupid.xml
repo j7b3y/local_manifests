@@ -5,7 +5,6 @@
   <project name="android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="j7b3y" revision="blaze-3.x" />
 
   <!-- Xiaomi common hardware -->
-  <remove-project path="hardware/xiaomi" />
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="j7b3y" revision="blaze-3.x" />
 
   <!-- Kernel -->
